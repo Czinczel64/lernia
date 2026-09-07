@@ -1,0 +1,19 @@
+{
+  "name": "Lernia",
+  "short_name": "Lernia",
+  "description": "Descubra como você aprende e acompanhe vários perfis, mesmo sem internet.",
+  "start_url": "/lernia/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#071a3d",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "/lernia/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "scope": "/lernia/"
+}
